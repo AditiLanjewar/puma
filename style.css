@@ -1,0 +1,43 @@
+body{
+    width: 100%;
+}
+section{
+    padding: 0.5%;
+}
+.top-puma-white{
+    text-align: center;
+}
+nav {
+    display: flex;
+    background-color: black;
+    margin-bottom: -33%;
+}
+a{
+    width: 3%;
+    color: azure;
+}
+.logopuma {
+    height: 12%;
+    margin-top: 5%;
+}
+
+ul {
+    display: flex;
+    
+}
+
+li {
+   padding: 3%;
+}
+.puma{
+    height: 6%;
+    margin-top: 5%;
+}
+.block{
+    margin-top: 0px;
+    margin-left: 33%;
+}
+.top-puma-blue{
+    text-align: center;
+    background-color:cadetblue;
+}
